@@ -1,2 +1,5 @@
-# UebungsOrdner
-Hier mache ich meine ersten Schritte mit Github und das ist ein Versuch
+# ZweiterOrdner
+und noch ein Branch
+nach einem guten chinesischen Essen
+und es war himmlisch!
+nach längerer Corona Abstinenz 
